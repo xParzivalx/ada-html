@@ -23,11 +23,11 @@ module.exports = {
     plugins: [
         themer({
             palette: {
-                extend : "nature"
+                extend : "oz"
             },
             radius: "smoothest",
-            background: "light",
-            border: "light",
+            background: "dark",
+            border: "dark",
             padding:"large",
             components: {
                 button: {
